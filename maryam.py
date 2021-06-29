@@ -1,6 +1,6 @@
-import numpy as np
-
 """ On behalf of Maryam Mirzakhani """
+
+import numpy as np
 
 
 def gauss_kernel(x, mu, sigma):
